@@ -1,0 +1,15 @@
+.accounticon svg {
+   font-size: 2.1rem;
+   fill: #6e6969;
+   margin-right: 5px;
+   cursor: pointer;
+   margin-top: 5px;
+}
+
+.accountlogin {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-direction: row;
+   column-gap: 5px;
+}

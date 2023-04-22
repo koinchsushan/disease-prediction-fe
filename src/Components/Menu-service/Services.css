@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.h2-text {
+  color: #042a4b;
+  font-size: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3.5px;
+  font-family: "Raleway", sans-serif;
+}
+
+.card-areas {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  column-gap: 1%;
+  flex-direction: row;
+}
+
+.card {
+  width: 30%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
